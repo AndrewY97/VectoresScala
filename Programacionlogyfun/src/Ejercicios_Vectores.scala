@@ -38,7 +38,7 @@ object Ejercicios_Vectores {
     mostrar(dos)
     media(dos)
     moda(dos)
-    mediana(dos)
+    //mediana(dos)
   }
 
   def media(datos:ArrayBuffer[Int]):Unit={
